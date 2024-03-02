@@ -10,3 +10,7 @@
 //npm i --save-dev tslib
 // npm run build
 //after every publish hme version badana hota h har bar 1 tbhi show hoga.
+// npm adduser
+// npm link vishnu-ui  - for test my npm pacge after use unlink
+//  npm unlink vishnu-ui
+// npm publish
